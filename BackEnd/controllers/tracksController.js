@@ -22,6 +22,6 @@ tracks.get("/:id", async (req, res) => {
       res.status(404).send({ message: "Tracks not found" });
     }
   } catch (error) {
-    console.error("ERROR while fetching track", error);
+    console.error("ERROR while fetching track:", error);
   }
 });

@@ -1,11 +1,11 @@
-// import { useState } from "react";
+import MainBody from "../src/components/MainBody";
 
 import "./App.css";
 
 function App() {
   return (
     <>
-      <h1>Hey</h1>
+      <MainBody />
     </>
   );
 }

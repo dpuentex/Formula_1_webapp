@@ -56,7 +56,7 @@ module.exports = (sequelize, DataTypes) => {
     {
       sequelize,
       modelName: "Driver",
-      tableName:"drivers",
+      tableName: "drivers",
       timestamps: false,
     }
   );

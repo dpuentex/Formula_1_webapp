@@ -1,5 +1,6 @@
 const express = require("express");
 const app = express();
+const cors = require("cors");
 require("dotenv").config();
 
 //init models
@@ -12,10 +13,11 @@ const { Driver, Track, Team } = db;
 
 //MIDDLEWEAR this PARSE JSON REQUEST
 app.use(express.json());
+app.use(cors());
 
 app.use("/drivers", require("./controllers/driversController"));
 app.use("/tracks", require("./controllers/tracksController"));
-app.use("/teams", require("./controllers/driversController"));
+app.use("/teams", require("./controllers/teamsController"));
 
 //ROUTES
 app.get("/", async (req, res) => {
@@ -23,7 +25,7 @@ app.get("/", async (req, res) => {
     const [drivers, tracks, teams] = await Promise.all([
       Driver.findAll(),
       Track.findAll(),
-      Driver.findAll(),
+      Team.findAll(),
     ]);
 
     const data = { drivers, tracks, teams };

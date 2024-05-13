@@ -1,0 +1,80 @@
+.header-div {
+    width: auto;
+    background-color: #e10602;
+    display:flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: space-around;
+    font-family: 'Times New Roman', Times, serif;
+    text-decoration: none;
+   
+}
+
+.header-logo{
+    max-width: 25%;
+}
+
+.top-nav a {
+    text-decoration: none;
+    color: white;
+  }
+
+
+ul{
+   
+    display: flex;
+    justify-content: space-around;
+    list-style-type: none; /* Remove bullets */
+}
+
+li{font-size:x-large;
+    margin: 1em;
+}
+
+.btn {
+    background-color: var(--background-color);
+    color: white;
+    padding: 0.5em 1em;
+    border: none;
+    outline: none;
+    position: relative;
+    cursor: pointer;
+    --background-color: #e10602;
+    --border-size: 2px;
+    --accent-color: white;
+    font-size: 16px;
+}
+
+/* Top and bottom underlines */
+.btn.btn-border-underline::before,
+.btn.btn-border-underline::after {
+    content: "";
+    position: absolute;
+    left: 0;
+    right: 0;
+    height: var(--border-size);
+    background-color: var(--accent-color);
+    transition: transform 300ms ease-in-out;
+}
+
+/* Bottom underline */
+.btn.btn-border-underline::after {
+    bottom: 0;
+}
+
+/* Top underline */
+.btn.btn-border-underline::before {
+    top: 0;
+}
+
+/* Initial state: both lines hidden */
+.btn.btn-border-underline::before,
+.btn.btn-border-underline::after {
+    transform: scaleX(0);
+}
+
+/* Hover effect: both lines appear */
+.btn.btn-border-underline:hover::before,
+.btn.btn-border-underline:hover::after {
+    transform: scaleX(1);
+}

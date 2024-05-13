@@ -22,6 +22,6 @@ teams.get("/:id", async (req, res) => {
       res.status(404).send({ message: "Team not found" });
     }
   } catch (error) {
-    console.error("ERROR while fetching team", error);
+    console.error("ERROR while fetching team:", error);
   }
 });

@@ -15,7 +15,8 @@ module.exports = {
         age: 26,
         f1_team: "Red Bull Racing",
         car_number: 1,
-        driver_pic1: "",
+        driver_pic1:
+          "https://media.formula1.com/d_driver_fallback_image.png/content/dam/fom-website/drivers/M/MAXVER01_Max_Verstappen/maxver01.png",
         driver_pic2: "",
         driver_pic3: "",
         driver_driving1: "",
@@ -29,7 +30,8 @@ module.exports = {
         age: 34,
         f1_team: "Red Bull Racing",
         car_number: 11,
-        driver_pic1: "",
+        driver_pic1:
+          "https://media.formula1.com/d_driver_fallback_image.png/content/dam/fom-website/drivers/S/SERPER01_Sergio_Perez/serper01.png",
         driver_pic2: "",
         driver_pic3: "",
         driver_driving1: "",
@@ -43,7 +45,8 @@ module.exports = {
         age: 37,
         f1_team: "Mercedes AMG Petronas Formula One Team",
         car_number: 44,
-        driver_pic1: "",
+        driver_pic1:
+          "https://media.formula1.com/d_driver_fallback_image.png/content/dam/fom-website/drivers/L/LEWHAM01_Lewis_Hamilton/lewham01.png",
         driver_pic2: "",
         driver_pic3: "",
         driver_driving1: "",
@@ -57,7 +60,8 @@ module.exports = {
         age: 24,
         f1_team: "Mercedes AMG Petronas Formula One Team",
         car_number: 63,
-        driver_pic1: "",
+        driver_pic1:
+          "https://media.formula1.com/d_driver_fallback_image.png/content/dam/fom-website/drivers/G/GEORUS01_George_Russell/georus01.png",
         driver_pic2: "",
         driver_pic3: "",
         driver_driving1: "",
@@ -71,7 +75,8 @@ module.exports = {
         age: 24,
         f1_team: "Scuderia Ferrari",
         car_number: 16,
-        driver_pic1: "",
+        driver_pic1:
+          "https://media.formula1.com/d_driver_fallback_image.png/content/dam/fom-website/drivers/C/CHALEC01_Charles_Leclerc/chalec01.png",
         driver_pic2: "",
         driver_pic3: "",
         driver_driving1: "",
@@ -85,7 +90,8 @@ module.exports = {
         age: 27,
         f1_team: "Scuderia Ferrari",
         car_number: 55,
-        driver_pic1: "",
+        driver_pic1:
+          "https://media.formula1.com/d_driver_fallback_image.png/content/dam/fom-website/drivers/C/CARSAI01_Carlos_Sainz/carsai01.png",
         driver_pic2: "",
         driver_pic3: "",
         driver_driving1: "",
@@ -99,7 +105,8 @@ module.exports = {
         age: 22,
         f1_team: "McLaren F1 Team",
         car_number: 4,
-        driver_pic1: "",
+        driver_pic1:
+          "https://media.formula1.com/d_driver_fallback_image.png/content/dam/fom-website/drivers/L/LANNOR01_Lando_Norris/lannor01.png",
         driver_pic2: "",
         driver_pic3: "",
         driver_driving1: "",
@@ -113,7 +120,8 @@ module.exports = {
         age: 21,
         f1_team: "McLaren F1 Team",
         car_number: 81,
-        driver_pic1: "",
+        driver_pic1:
+          "https://media.formula1.com/d_driver_fallback_image.png/content/dam/fom-website/drivers/O/OSCPIA01_Oscar_Piastri/oscpia01.png",
         driver_pic2: "",
         driver_pic3: "",
         driver_driving1: "",
@@ -127,7 +135,8 @@ module.exports = {
         age: 40,
         f1_team: "Aston Martin Cognizant Formula One Team",
         car_number: 14,
-        driver_pic1: "",
+        driver_pic1:
+          "https://media.formula1.com/d_driver_fallback_image.png/content/dam/fom-website/drivers/F/FERALO01_Fernando_Alonso/feralo01.png",
         driver_pic2: "",
         driver_pic3: "",
         driver_driving1: "",
@@ -141,7 +150,8 @@ module.exports = {
         age: 23,
         f1_team: "Aston Martin Cognizant Formula One Team",
         car_number: 18,
-        driver_pic1: "",
+        driver_pic1:
+          "https://media.formula1.com/d_driver_fallback_image.png/content/dam/fom-website/drivers/L/LANSTR01_Lance_Stroll/lanstr01.png",
         driver_pic2: "",
         driver_pic3: "",
         driver_driving1: "",
@@ -155,7 +165,8 @@ module.exports = {
         age: 25,
         f1_team: "Alpine F1 Team",
         car_number: 31,
-        driver_pic1: "",
+        driver_pic1:
+          "https://media.formula1.com/d_driver_fallback_image.png/content/dam/fom-website/drivers/E/ESTOCO01_Esteban_Ocon/estoco01.png",
         driver_pic2: "",
         driver_pic3: "",
         driver_driving1: "",
@@ -169,7 +180,8 @@ module.exports = {
         age: 26,
         f1_team: "Alpine F1 Team",
         car_number: 10,
-        driver_pic1: "",
+        driver_pic1:
+          "https://media.formula1.com/d_driver_fallback_image.png/content/dam/fom-website/drivers/P/PIEGAS01_Pierre_Gasly/piegas01.png",
         driver_pic2: "",
         driver_pic3: "",
         driver_driving1: "",
@@ -183,7 +195,8 @@ module.exports = {
         age: 34,
         f1_team: "Stake F1 Team",
         car_number: 77,
-        driver_pic1: "",
+        driver_pic1:
+          "https://media.formula1.com/d_driver_fallback_image.png/content/dam/fom-website/drivers/V/VALBOT01_Valtteri_Bottas/valbot01.png",
         driver_pic2: "",
         driver_pic3: "",
         driver_driving1: "",
@@ -197,7 +210,8 @@ module.exports = {
         age: 24,
         f1_team: "Stake F1 Team",
         car_number: 24,
-        driver_pic1: "",
+        driver_pic1:
+          "https://media.formula1.com/d_driver_fallback_image.png/content/dam/fom-website/drivers/G/GUAZHO01_Guanyu_Zhou/guazho01.png",
         driver_pic2: "",
         driver_pic3: "",
         driver_driving1: "",
@@ -211,7 +225,8 @@ module.exports = {
         age: 23,
         f1_team: "Visa Cash App RB",
         car_number: 22,
-        driver_pic1: "",
+        driver_pic1:
+          "https://media.formula1.com/d_driver_fallback_image.png/content/dam/fom-website/drivers/Y/YUKTSU01_Yuki_Tsunoda/yuktsu01.png",
         driver_pic2: "",
         driver_pic3: "",
         driver_driving1: "",
@@ -225,7 +240,8 @@ module.exports = {
         age: 32,
         f1_team: "Visa Cash App RB",
         car_number: 3,
-        driver_pic1: "",
+        driver_pic1:
+          "https://media.formula1.com/d_driver_fallback_image.png/content/dam/fom-website/drivers/D/DANRIC01_Daniel_Ricciardo/danric01.png",
         driver_pic2: "",
         driver_pic3: "",
         driver_driving1: "",
@@ -239,7 +255,8 @@ module.exports = {
         age: 26,
         f1_team: "Williams Racing",
         car_number: 23,
-        driver_pic1: "",
+        driver_pic1:
+          "https://media.formula1.com/d_driver_fallback_image.png/content/dam/fom-website/drivers/A/ALEALB01_Alexander_Albon/alealb01.png",
         driver_pic2: "",
         driver_pic3: "",
         driver_driving1: "",
@@ -253,7 +270,8 @@ module.exports = {
         age: 22,
         f1_team: "Williams Racing",
         car_number: 2,
-        driver_pic1: "",
+        driver_pic1:
+          "https://media.formula1.com/d_driver_fallback_image.png/content/dam/fom-website/drivers/L/LOGSAR01_Logan_Sargeant/logsar01.png",
         driver_pic2: "",
         driver_pic3: "",
         driver_driving1: "",
