@@ -1,5 +1,6 @@
 import { useState, useEffect } from "react";
 import DriverIcons from "./DriverIcons";
+import "../assets/css/DriversPage.css";
 
 function DriversPage() {
   const [drivers, setDrivers] = useState([]);

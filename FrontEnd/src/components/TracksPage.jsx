@@ -1,4 +1,5 @@
 import TrackIcons from "./TrackIcons";
+import "../assets/css/TracksPage.css";
 import { useEffect, useState } from "react";
 
 function TracksPage() {

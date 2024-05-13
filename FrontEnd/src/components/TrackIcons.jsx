@@ -1,3 +1,5 @@
+import "../assets/css/TrackIcons.css";
+
 function TrackIcons(props) {
   return (
     <div className="TrackIcon">
@@ -20,7 +22,7 @@ function TrackIcons(props) {
         <span>{new Date(Date.now()).toString()}</span>
       </div>
       <div>
-        <img src={props.map1} alt="" />
+        <img className="track_map" src={props.map1} />
       </div>
     </div>
   );

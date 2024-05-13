@@ -1,0 +1,13 @@
+.TrackIcon {
+    width: auto;
+    height: auto;
+    display: flex;
+}
+
+.TrackInfoDiv{
+   
+}
+
+.track_map{
+    width: 400px;
+}

@@ -1,4 +1,6 @@
-function DriversIcon(props) {
+import "../assets/css/DriverIcons.css";
+
+function DriverIcons(props) {
   return (
     <div className="DriverIcon">
       <div className="DriverDetails">
@@ -12,4 +14,4 @@ function DriversIcon(props) {
   );
 }
 
-export default DriversIcon;
+export default DriverIcons;
