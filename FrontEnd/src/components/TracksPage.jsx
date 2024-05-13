@@ -24,7 +24,11 @@ function TracksPage() {
   return (
     <div>
       {tracks.map((track) => (
-        <TrackIcons key={track.track_id} gpName={track.gp_name} />
+        <TrackIcons
+          key={track.track_id}
+          gpName={track.gp_name}
+          map1={track.gp_track_map1}
+        />
       ))}
     </div>
   );

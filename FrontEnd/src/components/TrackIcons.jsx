@@ -19,6 +19,9 @@ function TrackIcons(props) {
         </div>
         <span>{new Date(Date.now()).toString()}</span>
       </div>
+      <div>
+        <img src={props.map1} alt="" />
+      </div>
     </div>
   );
 }

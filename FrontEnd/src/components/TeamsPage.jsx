@@ -1,4 +1,5 @@
 import TeamIcons from "./TeamIcons";
+import "../assets/css/TeamsPage.css";
 import { useEffect, useState } from "react";
 
 function TeamsPage() {
@@ -22,9 +23,13 @@ function TeamsPage() {
   }, []);
 
   return (
-    <div>
+    <div className="TeamPage_Div">
       {teams.map((team) => (
-        <TeamIcons key={team.team_id} teamName={team.team_name} />
+        <TeamIcons
+          key={team.team_id}
+          teamName={team.team_name}
+          team_header={team.team_header_logo}
+        />
       ))}
     </div>
   );

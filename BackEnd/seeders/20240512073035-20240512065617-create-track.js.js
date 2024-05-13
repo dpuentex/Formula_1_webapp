@@ -16,7 +16,8 @@ module.exports = {
         first_gp: 2004,
         date_of_gp: new Date("2024-03-02"),
         gp_header_pic: "",
-        gp_track_map1: "",
+        gp_track_map1:
+          "https://media.formula1.com/image/upload/f_auto/q_auto/v1677244985/content/dam/fom-website/2018-redesign-assets/Circuit%20maps%2016x9/Bahrain_Circuit.png.transform/8col/image.png",
         gp_track_map2: "",
         gp_pic_1: "",
         gp_pic_2: "",
@@ -31,7 +32,8 @@ module.exports = {
         first_gp: 2021,
         date_of_gp: new Date("2024-03-09"),
         gp_header_pic: "",
-        gp_track_map1: "",
+        gp_track_map1:
+          "https://media.formula1.com/image/upload/f_auto/q_auto/v1677244985/content/dam/fom-website/2018-redesign-assets/Circuit%20maps%2016x9/Saudi_Arabia_Circuit.png.transform/8col/image.png",
         gp_track_map2: "",
         gp_pic_1: "",
         gp_pic_2: "",
@@ -46,7 +48,8 @@ module.exports = {
         first_gp: 1985,
         date_of_gp: new Date("2024-03-24"),
         gp_header_pic: "",
-        gp_track_map1: "",
+        gp_track_map1:
+          "https://media.formula1.com/image/upload/f_auto/q_auto/v1677244985/content/dam/fom-website/2018-redesign-assets/Circuit%20maps%2016x9/Australia_Circuit.png.transform/8col/image.png",
         gp_track_map2: "",
         gp_pic_1: "",
         gp_pic_2: "",
@@ -61,7 +64,8 @@ module.exports = {
         first_gp: 1987,
         date_of_gp: new Date("2024-04-07"),
         gp_header_pic: "",
-        gp_track_map1: "",
+        gp_track_map1:
+          "https://media.formula1.com/image/upload/f_auto/q_auto/v1677250050/content/dam/fom-website/2018-redesign-assets/Circuit%20maps%2016x9/Japan_Circuit.png.transform/8col/image.png",
         gp_track_map2: "",
         gp_pic_1: "",
         gp_pic_2: "",
@@ -76,7 +80,8 @@ module.exports = {
         first_gp: 2004,
         date_of_gp: new Date("2024-04-21"),
         gp_header_pic: "",
-        gp_track_map1: "",
+        gp_track_map1:
+          "https://media.formula1.com/image/upload/content/dam/fom-website/2018-redesign-assets/Circuit%20maps%2016x9/China_Circuit.png.transform/8col/image.png",
         gp_track_map2: "",
         gp_pic_1: "",
         gp_pic_2: "",
@@ -91,7 +96,8 @@ module.exports = {
         first_gp: 2024,
         date_of_gp: new Date("2024-05-05"),
         gp_header_pic: "",
-        gp_track_map1: "",
+        gp_track_map1:
+          "https://media.formula1.com/image/upload/f_auto/q_auto/v1677244985/content/dam/fom-website/2018-redesign-assets/Circuit%20maps%2016x9/Miami_Circuit.png.transform/8col/image.png",
         gp_track_map2: "",
         gp_pic_1: "",
         gp_pic_2: "",
@@ -107,7 +113,8 @@ module.exports = {
         first_gp: 1980,
         date_of_gp: new Date("2024-05-19"),
         gp_header_pic: "",
-        gp_track_map1: "",
+        gp_track_map1:
+          "https://media.formula1.com/image/upload/f_auto/q_auto/v1677244984/content/dam/fom-website/2018-redesign-assets/Circuit%20maps%2016x9/Emilia_Romagna_Circuit.png.transform/8col/image.png",
         gp_track_map2: "",
         gp_pic_1: "",
         gp_pic_2: "",
@@ -122,7 +129,8 @@ module.exports = {
         first_gp: 1929,
         date_of_gp: new Date("2024-05-26"),
         gp_header_pic: "",
-        gp_track_map1: "",
+        gp_track_map1:
+          "https://media.formula1.com/image/upload/f_auto/q_auto/v1677244984/content/dam/fom-website/2018-redesign-assets/Circuit%20maps%2016x9/Monoco_Circuit.png.transform/8col/image.png",
         gp_track_map2: "",
         gp_pic_1: "",
         gp_pic_2: "",
@@ -137,7 +145,8 @@ module.exports = {
         first_gp: 1961,
         date_of_gp: new Date("2024-06-09"),
         gp_header_pic: "",
-        gp_track_map1: "",
+        gp_track_map1:
+          "https://media.formula1.com/image/upload/content/dam/fom-website/2018-redesign-assets/Circuit%20maps%2016x9/Canada_Circuit.png.transform/8col/image.png",
         gp_track_map2: "",
         gp_pic_1: "",
         gp_pic_2: "",
@@ -152,7 +161,8 @@ module.exports = {
         first_gp: 1991,
         date_of_gp: new Date("2024-06-23"),
         gp_header_pic: "",
-        gp_track_map1: "",
+        gp_track_map1:
+          "https://media.formula1.com/image/upload/f_auto/q_auto/v1677244986/content/dam/fom-website/2018-redesign-assets/Circuit%20maps%2016x9/Spain_Circuit.png.transform/8col/image.png",
         gp_track_map2: "",
         gp_pic_1: "",
         gp_pic_2: "",
@@ -167,7 +177,8 @@ module.exports = {
         first_gp: 1970,
         date_of_gp: new Date("2024-06-30"),
         gp_header_pic: "",
-        gp_track_map1: "",
+        gp_track_map1:
+          "https://media.formula1.com/image/upload/content/dam/fom-website/2018-redesign-assets/Circuit%20maps%2016x9/Austria_Circuit.png.transform/8col/image.png",
         gp_track_map2: "",
         gp_pic_1: "",
         gp_pic_2: "",
@@ -182,7 +193,8 @@ module.exports = {
         first_gp: 1950,
         date_of_gp: new Date("2024-07-07"),
         gp_header_pic: "",
-        gp_track_map1: "",
+        gp_track_map1:
+          "https://media.formula1.com/image/upload/content/dam/fom-website/2018-redesign-assets/Circuit%20maps%2016x9/Great_Britain_Circuit.png.transform/8col/image.png",
         gp_track_map2: "",
         gp_pic_1: "",
         gp_pic_2: "",
@@ -197,7 +209,8 @@ module.exports = {
         first_gp: 1986,
         date_of_gp: new Date("2024-07-21"),
         gp_header_pic: "",
-        gp_track_map1: "",
+        gp_track_map1:
+          "https://media.formula1.com/image/upload/content/dam/fom-website/2018-redesign-assets/Circuit%20maps%2016x9/Hungary_Circuit.png.transform/8col/image.png",
         gp_track_map2: "",
         gp_pic_1: "",
         gp_pic_2: "",
@@ -212,7 +225,8 @@ module.exports = {
         first_gp: 1925,
         date_of_gp: new Date("2024-07-28"),
         gp_header_pic: "",
-        gp_track_map1: "",
+        gp_track_map1:
+          "https://media.formula1.com/image/upload/content/dam/fom-website/2018-redesign-assets/Circuit%20maps%2016x9/Belgium_Circuit.png.transform/8col/image.png",
         gp_track_map2: "",
         gp_pic_1: "",
         gp_pic_2: "",
@@ -227,7 +241,8 @@ module.exports = {
         first_gp: 1952,
         date_of_gp: new Date("2024-08-25"),
         gp_header_pic: "",
-        gp_track_map1: "",
+        gp_track_map1:
+          "https://media.formula1.com/image/upload/f_auto/q_auto/v1677244984/content/dam/fom-website/2018-redesign-assets/Circuit%20maps%2016x9/Netherlands_Circuit.png.transform/8col/image.png",
         gp_track_map2: "",
         gp_pic_1: "",
         gp_pic_2: "",
@@ -242,7 +257,8 @@ module.exports = {
         first_gp: 1921,
         date_of_gp: new Date("2024-09-01"),
         gp_header_pic: "",
-        gp_track_map1: "",
+        gp_track_map1:
+          "https://media.formula1.com/image/upload/f_auto/q_auto/v1677244987/content/dam/fom-website/2018-redesign-assets/Circuit%20maps%2016x9/Italy_Circuit.png.transform/8col/image.png",
         gp_track_map2: "",
         gp_pic_1: "",
         gp_pic_2: "",
@@ -257,7 +273,8 @@ module.exports = {
         first_gp: 2016,
         date_of_gp: new Date("2024-09-15"),
         gp_header_pic: "",
-        gp_track_map1: "",
+        gp_track_map1:
+          "https://media.formula1.com/image/upload/f_auto/q_auto/v1677244987/content/dam/fom-website/2018-redesign-assets/Circuit%20maps%2016x9/Baku_Circuit.png.transform/8col/image.png",
         gp_track_map2: "",
         gp_pic_1: "",
         gp_pic_2: "",
@@ -272,7 +289,8 @@ module.exports = {
         first_gp: 2008,
         date_of_gp: new Date("2024-09-22"),
         gp_header_pic: "",
-        gp_track_map1: "",
+        gp_track_map1:
+          "https://media.formula1.com/image/upload/f_auto/q_auto/v1683633963/content/dam/fom-website/2018-redesign-assets/Circuit%20maps%2016x9/Singapore_Circuit.png.transform/8col/image.png",
         gp_track_map2: "",
         gp_pic_1: "",
         gp_pic_2: "",
@@ -287,7 +305,8 @@ module.exports = {
         first_gp: 1908,
         date_of_gp: new Date("2024-10-20"),
         gp_header_pic: "",
-        gp_track_map1: "",
+        gp_track_map1:
+          "https://media.formula1.com/image/upload/f_auto/q_auto/v1677244984/content/dam/fom-website/2018-redesign-assets/Circuit%20maps%2016x9/USA_Circuit.png.transform/8col/image.png",
         gp_track_map2: "",
         gp_pic_1: "",
         gp_pic_2: "",
@@ -302,7 +321,8 @@ module.exports = {
         first_gp: 1962,
         date_of_gp: new Date("2024-10-27"),
         gp_header_pic: "",
-        gp_track_map1: "",
+        gp_track_map1:
+          "https://media.formula1.com/image/upload/content/dam/fom-website/2018-redesign-assets/Circuit%20maps%2016x9/Mexico_Circuit.png.transform/8col/image.png",
         gp_track_map2: "",
         gp_pic_1: "",
         gp_pic_2: "",
@@ -317,7 +337,8 @@ module.exports = {
         first_gp: 1973,
         date_of_gp: new Date("2024-11-03"),
         gp_header_pic: "",
-        gp_track_map1: "",
+        gp_track_map1:
+          "https://media.formula1.com/image/upload/content/dam/fom-website/2018-redesign-assets/Circuit%20maps%2016x9/Brazil_Circuit.png.transform/8col/image.png",
         gp_track_map2: "",
         gp_pic_1: "",
         gp_pic_2: "",
@@ -332,7 +353,8 @@ module.exports = {
         first_gp: 1981,
         date_of_gp: new Date("2024-11-24"),
         gp_header_pic: "",
-        gp_track_map1: "",
+        gp_track_map1:
+          "https://media.formula1.com/image/upload/f_auto/q_auto/v1677249930/content/dam/fom-website/2018-redesign-assets/Circuit%20maps%2016x9/Las_Vegas_Circuit.png.transform/8col/image.png",
         gp_track_map2: "",
         gp_pic_1: "",
         gp_pic_2: "",
@@ -347,7 +369,8 @@ module.exports = {
         first_gp: 2024,
         date_of_gp: new Date("2024-12-01"),
         gp_header_pic: "",
-        gp_track_map1: "",
+        gp_track_map1:
+          "https://media.formula1.com/image/upload/f_auto/q_auto/v1677244985/content/dam/fom-website/2018-redesign-assets/Circuit%20maps%2016x9/Qatar_Circuit.png.transform/8col/image.png",
         gp_track_map2: "",
         gp_pic_1: "",
         gp_pic_2: "",
@@ -362,7 +385,8 @@ module.exports = {
         first_gp: 2009,
         date_of_gp: new Date("2024-12-08"),
         gp_header_pic: "",
-        gp_track_map1: "",
+        gp_track_map1:
+          "https://media.formula1.com/image/upload/content/dam/fom-website/2018-redesign-assets/Circuit%20maps%2016x9/Abu_Dhabi_Circuit.png.transform/8col/image.png",
         gp_track_map2: "",
         gp_pic_1: "",
         gp_pic_2: "",
