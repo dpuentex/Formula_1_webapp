@@ -30,7 +30,9 @@ function Header() {
             </a>
           </li>
           <li>
-            <a className="btn btn-border-underline">SHOP</a>
+            <a href="/shopf1" className="btn btn-border-underline">
+              SHOP
+            </a>
           </li>
         </ul>
       </nav>

@@ -1,6 +1,7 @@
 import TeamIcons from "./TeamIcons";
 import "../assets/css/TeamsPage.css";
 import { useEffect, useState } from "react";
+import { Link } from "react-router-dom";
 
 function TeamsPage() {
   const [teams, setTeams] = useState([]);
@@ -23,13 +24,15 @@ function TeamsPage() {
   }, []);
 
   return (
-    <div className="TeamPage_Div">
+    <div className="TeamsPage">
       {teams.map((team) => (
-        <TeamIcons
-          key={team.team_id}
-          teamName={team.team_name}
-          team_header={team.team_header_logo}
-        />
+        <Link className="link" key={team.team_id} to={`/teams/${team.team_id}`}>
+          <TeamIcons
+            key={team.team_id}
+            teamName={team.team_name}
+            team_header={team.team_header_logo}
+          />
+        </Link>
       ))}
     </div>
   );

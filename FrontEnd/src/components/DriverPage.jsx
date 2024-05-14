@@ -1,5 +1,6 @@
 import { useEffect, useState } from "react";
 import { useParams } from "react-router-dom";
+import "../assets/css/DriverPage.css";
 
 function DriverPage() {
   const { id } = useParams(); // Gets the parameter from the url...

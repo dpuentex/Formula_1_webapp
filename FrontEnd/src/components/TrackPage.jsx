@@ -1,5 +1,6 @@
 import { useEffect, useState } from "react";
 import { useParams } from "react-router-dom";
+import "../assets/css/TrackPage.css";
 
 function TrackPage() {
   const { id } = useParams();
@@ -24,7 +25,7 @@ function TrackPage() {
     <div>
       {track && (
         <div className="trackPageContainer">
-          <img src={track.track_header_pic} />
+          <img className="trackHeaderimg" src={track.gp_header_pic} />
           <h2>{track.track_name}</h2>
           <p>{track.gp_name}</p>
         </div>
