@@ -1,6 +1,7 @@
 import TrackIcons from "./TrackIcons";
 import "../assets/css/TracksPage.css";
 import { useEffect, useState } from "react";
+import { Link } from "react-router-dom";
 
 function TracksPage() {
   const [tracks, setTracks] = useState([]);
@@ -21,15 +22,20 @@ function TracksPage() {
         console.error("Error fetching track data:", error);
       });
   }, []);
-
   return (
     <div>
       {tracks.map((track) => (
-        <TrackIcons
+        <Link
+          className="link"
           key={track.track_id}
-          gpName={track.gp_name}
-          map1={track.gp_track_map1}
-        />
+          to={`/tracks/${track.track_id}`}
+        >
+          <TrackIcons
+            key={track.track_id}
+            gpName={track.gp_name}
+            map1={track.gp_track_map1}
+          />
+        </Link>
       ))}
     </div>
   );

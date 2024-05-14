@@ -15,7 +15,8 @@ module.exports = {
         circuit_length: 5.412,
         first_gp: 2004,
         date_of_gp: new Date("2024-03-02"),
-        gp_header_pic: "",
+        gp_header_pic:
+          "https://f1chronicle.com/wp-content/uploads/2023/12/large-2023-Bahrain-Grand-Prix-Sunday.webp",
         gp_track_map1:
           "https://media.formula1.com/image/upload/f_auto/q_auto/v1677244985/content/dam/fom-website/2018-redesign-assets/Circuit%20maps%2016x9/Bahrain_Circuit.png.transform/8col/image.png",
         gp_track_map2: "",
@@ -31,7 +32,8 @@ module.exports = {
         circuit_length: 6.175,
         first_gp: 2021,
         date_of_gp: new Date("2024-03-09"),
-        gp_header_pic: "",
+        gp_header_pic:
+          "https://racer.com/wp-content/uploads/sites/85/2022/11/1019057833-LAT-20220327-GP2202_173326_J6I3526.jpg",
         gp_track_map1:
           "https://media.formula1.com/image/upload/f_auto/q_auto/v1677244985/content/dam/fom-website/2018-redesign-assets/Circuit%20maps%2016x9/Saudi_Arabia_Circuit.png.transform/8col/image.png",
         gp_track_map2: "",
@@ -47,7 +49,8 @@ module.exports = {
         circuit_length: 5.303,
         first_gp: 1985,
         date_of_gp: new Date("2024-03-24"),
-        gp_header_pic: "",
+        gp_header_pic:
+          "https://www.austadiums.com/stadiums/photos/albert-park-gp-circuit-1.jpg",
         gp_track_map1:
           "https://media.formula1.com/image/upload/f_auto/q_auto/v1677244985/content/dam/fom-website/2018-redesign-assets/Circuit%20maps%2016x9/Australia_Circuit.png.transform/8col/image.png",
         gp_track_map2: "",
@@ -63,7 +66,8 @@ module.exports = {
         circuit_length: 5.807,
         first_gp: 1987,
         date_of_gp: new Date("2024-04-07"),
-        gp_header_pic: "",
+        gp_header_pic:
+          "https://media.formula1.com/image/upload/f_auto,c_limit,w_960,q_auto/f_auto/q_auto/content/dam/fom-website/2018-redesign-assets/Racehub%20header%20images%2016x9/Japan",
         gp_track_map1:
           "https://media.formula1.com/image/upload/f_auto/q_auto/v1677250050/content/dam/fom-website/2018-redesign-assets/Circuit%20maps%2016x9/Japan_Circuit.png.transform/8col/image.png",
         gp_track_map2: "",
@@ -79,7 +83,8 @@ module.exports = {
         circuit_length: 5.451,
         first_gp: 2004,
         date_of_gp: new Date("2024-04-21"),
-        gp_header_pic: "",
+        gp_header_pic:
+          "https://www.blackbookmotorsport.com/wp-content/uploads/2023/11/fia-f1-grade-one-license-shanghai-international-circuit-chinese-grand-prix-1.jpg",
         gp_track_map1:
           "https://media.formula1.com/image/upload/content/dam/fom-website/2018-redesign-assets/Circuit%20maps%2016x9/China_Circuit.png.transform/8col/image.png",
         gp_track_map2: "",
@@ -95,7 +100,8 @@ module.exports = {
         circuit_length: 5.41,
         first_gp: 2024,
         date_of_gp: new Date("2024-05-05"),
-        gp_header_pic: "",
+        gp_header_pic:
+          "https://www.everythingf1.com/wp-content/uploads/2024/04/Miami-2048x1366.jpg",
         gp_track_map1:
           "https://media.formula1.com/image/upload/f_auto/q_auto/v1677244985/content/dam/fom-website/2018-redesign-assets/Circuit%20maps%2016x9/Miami_Circuit.png.transform/8col/image.png",
         gp_track_map2: "",
@@ -112,7 +118,8 @@ module.exports = {
         circuit_length: 4.959,
         first_gp: 1980,
         date_of_gp: new Date("2024-05-19"),
-        gp_header_pic: "",
+        gp_header_pic:
+          "https://static.bolognawelcome.com/immagini/68/69/7d/6a/20220518143654_landscape_16_9_desktop.jpg",
         gp_track_map1:
           "https://media.formula1.com/image/upload/f_auto/q_auto/v1677244984/content/dam/fom-website/2018-redesign-assets/Circuit%20maps%2016x9/Emilia_Romagna_Circuit.png.transform/8col/image.png",
         gp_track_map2: "",
@@ -128,7 +135,8 @@ module.exports = {
         circuit_length: 3.337,
         first_gp: 1929,
         date_of_gp: new Date("2024-05-26"),
-        gp_header_pic: "",
+        gp_header_pic:
+          "https://cdn.williamsf1.tech/images/fnx611yr/production/0e299c68ec9cf6a5d3fe071993ef292123064a7e-3014x1694.jpg?w=1200&auto=format",
         gp_track_map1:
           "https://media.formula1.com/image/upload/f_auto/q_auto/v1677244984/content/dam/fom-website/2018-redesign-assets/Circuit%20maps%2016x9/Monoco_Circuit.png.transform/8col/image.png",
         gp_track_map2: "",
@@ -144,7 +152,8 @@ module.exports = {
         circuit_length: 4.361,
         first_gp: 1961,
         date_of_gp: new Date("2024-06-09"),
-        gp_header_pic: "",
+        gp_header_pic:
+          "https://motorsportguides.com/wp-content/uploads/2019/10/Circuit-Gilles-Villeneuve__GRANDSTAND_24_6013-copy.jpg",
         gp_track_map1:
           "https://media.formula1.com/image/upload/content/dam/fom-website/2018-redesign-assets/Circuit%20maps%2016x9/Canada_Circuit.png.transform/8col/image.png",
         gp_track_map2: "",
@@ -192,7 +201,8 @@ module.exports = {
         circuit_length: 5.891,
         first_gp: 1950,
         date_of_gp: new Date("2024-07-07"),
-        gp_header_pic: "",
+        gp_header_pic:
+          "https://cdn-8.motorsport.com/images/amp/YP3WJbo2/s1200/the-busy-pre-race-grid-1.webp",
         gp_track_map1:
           "https://media.formula1.com/image/upload/content/dam/fom-website/2018-redesign-assets/Circuit%20maps%2016x9/Great_Britain_Circuit.png.transform/8col/image.png",
         gp_track_map2: "",
@@ -208,7 +218,8 @@ module.exports = {
         circuit_length: 4.381,
         first_gp: 1986,
         date_of_gp: new Date("2024-07-21"),
-        gp_header_pic: "",
+        gp_header_pic:
+          "https://f1destinations.com/wp-content/uploads/2023/07/F1Destinations_2022_Hungarian_GP_Champions_Club_02214.jpg",
         gp_track_map1:
           "https://media.formula1.com/image/upload/content/dam/fom-website/2018-redesign-assets/Circuit%20maps%2016x9/Hungary_Circuit.png.transform/8col/image.png",
         gp_track_map2: "",
@@ -224,7 +235,8 @@ module.exports = {
         circuit_length: 7.004,
         first_gp: 1925,
         date_of_gp: new Date("2024-07-28"),
-        gp_header_pic: "",
+        gp_header_pic:
+          "https://img.redbull.com/images/q_auto,f_auto/redbullcom/2013/08/24/1331608292718_3/mark-webber-rides-up-eau-rouge-on-his-bike",
         gp_track_map1:
           "https://media.formula1.com/image/upload/content/dam/fom-website/2018-redesign-assets/Circuit%20maps%2016x9/Belgium_Circuit.png.transform/8col/image.png",
         gp_track_map2: "",
@@ -240,7 +252,8 @@ module.exports = {
         circuit_length: 4.259,
         first_gp: 1952,
         date_of_gp: new Date("2024-08-25"),
-        gp_header_pic: "",
+        gp_header_pic:
+          "https://www.tracksidelegends.com/wp-content/uploads/2021/09/Dutch-GrandPrix-5sept-Overview-100-2500x1250.jpg",
         gp_track_map1:
           "https://media.formula1.com/image/upload/f_auto/q_auto/v1677244984/content/dam/fom-website/2018-redesign-assets/Circuit%20maps%2016x9/Netherlands_Circuit.png.transform/8col/image.png",
         gp_track_map2: "",
@@ -256,7 +269,8 @@ module.exports = {
         circuit_length: 5.793,
         first_gp: 1921,
         date_of_gp: new Date("2024-09-01"),
-        gp_header_pic: "",
+        gp_header_pic:
+          "https://cdn.ferrari.com/cms/network/media/img/resize/631861110d6096726431517d-monza%20new%20main%20one%201250x700?width=1920&height=0",
         gp_track_map1:
           "https://media.formula1.com/image/upload/f_auto/q_auto/v1677244987/content/dam/fom-website/2018-redesign-assets/Circuit%20maps%2016x9/Italy_Circuit.png.transform/8col/image.png",
         gp_track_map2: "",
@@ -272,7 +286,8 @@ module.exports = {
         circuit_length: 6.003,
         first_gp: 2016,
         date_of_gp: new Date("2024-09-15"),
-        gp_header_pic: "",
+        gp_header_pic:
+          "https://img.redbull.com/images/w_3000/q_auto,f_auto/redbullcom/2023/4/25/ofu0xrbl88z2v4z7k4c7/new-kid-on-the-block",
         gp_track_map1:
           "https://media.formula1.com/image/upload/f_auto/q_auto/v1677244987/content/dam/fom-website/2018-redesign-assets/Circuit%20maps%2016x9/Baku_Circuit.png.transform/8col/image.png",
         gp_track_map2: "",
@@ -288,7 +303,8 @@ module.exports = {
         circuit_length: 5.063,
         first_gp: 2008,
         date_of_gp: new Date("2024-09-22"),
-        gp_header_pic: "",
+        gp_header_pic:
+          "https://media.formula1.com/image/upload/f_auto/q_auto/v1677245022/content/dam/fom-website/2018-redesign-assets/Racehub%20header%20images%2016x9/Singapore.jpg.transform/12col-retina/image.jpg",
         gp_track_map1:
           "https://media.formula1.com/image/upload/f_auto/q_auto/v1683633963/content/dam/fom-website/2018-redesign-assets/Circuit%20maps%2016x9/Singapore_Circuit.png.transform/8col/image.png",
         gp_track_map2: "",
@@ -304,7 +320,8 @@ module.exports = {
         circuit_length: 5.513,
         first_gp: 1908,
         date_of_gp: new Date("2024-10-20"),
-        gp_header_pic: "",
+        gp_header_pic:
+          "https://images.ps-aws.com/c?url=https%3A%2F%2Fd3cm515ijfiu6w.cloudfront.net%2Fwp-content%2Fuploads%2F2021%2F07%2F11133450%2FPA-48098281-1.jpg",
         gp_track_map1:
           "https://media.formula1.com/image/upload/f_auto/q_auto/v1677244984/content/dam/fom-website/2018-redesign-assets/Circuit%20maps%2016x9/USA_Circuit.png.transform/8col/image.png",
         gp_track_map2: "",
@@ -320,7 +337,8 @@ module.exports = {
         circuit_length: 4.304,
         first_gp: 1962,
         date_of_gp: new Date("2024-10-27"),
-        gp_header_pic: "",
+        gp_header_pic:
+          "https://media.formula1.com/image/upload/f_auto,c_limit,w_1440,q_auto/t_16by9South/f_auto/q_auto/fom-website/2023/Mexico/GettyImages-1437758545",
         gp_track_map1:
           "https://media.formula1.com/image/upload/content/dam/fom-website/2018-redesign-assets/Circuit%20maps%2016x9/Mexico_Circuit.png.transform/8col/image.png",
         gp_track_map2: "",
@@ -336,7 +354,8 @@ module.exports = {
         circuit_length: 4.309,
         first_gp: 1973,
         date_of_gp: new Date("2024-11-03"),
-        gp_header_pic: "",
+        gp_header_pic:
+          "https://phantom-marca-us.unidadeditorial.es/e3f76c0da52e2f2f06cf7cf6df8c34b9/resize/1320/f/webp/assets/multimedia/imagenes/2023/11/03/16990212354402.jpg",
         gp_track_map1:
           "https://media.formula1.com/image/upload/content/dam/fom-website/2018-redesign-assets/Circuit%20maps%2016x9/Brazil_Circuit.png.transform/8col/image.png",
         gp_track_map2: "",
@@ -352,7 +371,8 @@ module.exports = {
         circuit_length: 6.1,
         first_gp: 1981,
         date_of_gp: new Date("2024-11-24"),
-        gp_header_pic: "",
+        gp_header_pic:
+          "https://globalnews.ca/wp-content/uploads/2023/11/F1-Las-Vegas-Grand-Prix-Red-Bull.jpg?w=2048",
         gp_track_map1:
           "https://media.formula1.com/image/upload/f_auto/q_auto/v1677249930/content/dam/fom-website/2018-redesign-assets/Circuit%20maps%2016x9/Las_Vegas_Circuit.png.transform/8col/image.png",
         gp_track_map2: "",
@@ -368,7 +388,8 @@ module.exports = {
         circuit_length: 5.38,
         first_gp: 2024,
         date_of_gp: new Date("2024-12-01"),
-        gp_header_pic: "",
+        gp_header_pic:
+          "https://cdn-8.motorsport.com/images/mgl/0ZRKdlo0/s1200/lusail-international-circuit-o-1.webp",
         gp_track_map1:
           "https://media.formula1.com/image/upload/f_auto/q_auto/v1677244985/content/dam/fom-website/2018-redesign-assets/Circuit%20maps%2016x9/Qatar_Circuit.png.transform/8col/image.png",
         gp_track_map2: "",
@@ -384,7 +405,8 @@ module.exports = {
         circuit_length: 5.554,
         first_gp: 2009,
         date_of_gp: new Date("2024-12-08"),
-        gp_header_pic: "",
+        gp_header_pic:
+          "https://static.myconnect.ae/-/media/yasconnect/project/ymc/experiences-details/tour/venue-tour-1440x520.jpg",
         gp_track_map1:
           "https://media.formula1.com/image/upload/content/dam/fom-website/2018-redesign-assets/Circuit%20maps%2016x9/Abu_Dhabi_Circuit.png.transform/8col/image.png",
         gp_track_map2: "",

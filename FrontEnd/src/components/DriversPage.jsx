@@ -1,4 +1,5 @@
 import { useState, useEffect } from "react";
+import { Link } from "react-router-dom";
 import DriverIcons from "./DriverIcons";
 import "../assets/css/DriversPage.css";
 
@@ -25,12 +26,18 @@ function DriversPage() {
   return (
     <div className="DriverPageDiv">
       {drivers.map((driver) => (
-        <DriverIcons
+        <Link
+          className="link"
           key={driver.driver_id}
-          driverName={driver.driver_name}
-          team={driver.f1_team}
-          DriverImg={driver.driver_pic1}
-        />
+          to={`/drivers/${driver.driver_id}`}
+        >
+          <DriverIcons
+            key={driver.driver_id}
+            driverName={driver.driver_name}
+            team={driver.f1_team}
+            DriverImg={driver.driver_pic1}
+          />
+        </Link>
       ))}
     </div>
   );
