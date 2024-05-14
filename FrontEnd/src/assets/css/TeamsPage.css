@@ -5,7 +5,30 @@
 
 }
 
+.TeamsPageDiv{
+    display: flex;
+    flex-direction: column;
+    align-content: center;
+}
 
 .link{
     text-decoration: none;
 }
+
+
+
+
+.TeamsPageDiv .link {
+ 
+   transition: transform 0.3s ease-in-out, opacity 0.3s ease-in-out;
+    
+}
+
+.TeamsPageDiv .link:hover {
+   transform: scale(1.05);
+   opacity: 0.9; 
+
+
+}
+
+

@@ -17,7 +17,8 @@ module.exports = {
         car_number: 1,
         driver_pic1:
           "https://media.formula1.com/d_driver_fallback_image.png/content/dam/fom-website/drivers/M/MAXVER01_Max_Verstappen/maxver01.png",
-        driver_pic2: "",
+        driver_pic2:
+          "https://media.formula1.com/image/upload/f_auto,c_limit,q_75,w_1320/content/dam/fom-website/drivers/2024Drivers/verstappen",
         driver_pic3:
           "https://www.reuters.com/resizer/v2/https%3A%2F%2Fcloudfront-us-east-2.images.arcpublishing.com%2Freuters%2FK6WG2Z5EQVJGZMSHWMIXEZBMDM.jpg?auth=b6e5d7e9f6db088f1be66a68416f0132c4e1eef9fc185479a98d9fa44109c0ae&width=1200&quality=80",
         driver_driving1:
@@ -35,7 +36,8 @@ module.exports = {
         car_number: 11,
         driver_pic1:
           "https://media.formula1.com/d_driver_fallback_image.png/content/dam/fom-website/drivers/S/SERPER01_Sergio_Perez/serper01.png",
-        driver_pic2: "",
+        driver_pic2:
+          "https://media.formula1.com/image/upload/f_auto,c_limit,q_75,w_1320/content/dam/fom-website/drivers/2024Drivers/perez",
         driver_pic3: "https://static.dw.com/image/59749790_605.webp",
         driver_driving1:
           "https://s1.cdn.autoevolution.com/images/news/red-bulls-sergio-perez-is-more-comfortable-with-the-2022-car-versus-2021-says-team-boss-188954_1.jpg",
@@ -52,7 +54,8 @@ module.exports = {
         car_number: 44,
         driver_pic1:
           "https://media.formula1.com/d_driver_fallback_image.png/content/dam/fom-website/drivers/L/LEWHAM01_Lewis_Hamilton/lewham01.png",
-        driver_pic2: "",
+        driver_pic2:
+          "https://media.formula1.com/image/upload/f_auto,c_limit,q_75,w_1320/content/dam/fom-website/drivers/2024Drivers/hamilton",
         driver_pic3:
           "https://i.abcnewsfe.com/a/b590d444-4558-4ef8-8a36-db0360c63ecb/lewis-hamilton-gty-8-thg-231113_1699890129613_hpMain_16x9.jpg?w=992",
         driver_driving1:
@@ -70,7 +73,8 @@ module.exports = {
         car_number: 63,
         driver_pic1:
           "https://media.formula1.com/d_driver_fallback_image.png/content/dam/fom-website/drivers/G/GEORUS01_George_Russell/georus01.png",
-        driver_pic2: "",
+        driver_pic2:
+          "https://media.formula1.com/image/upload/f_auto,c_limit,q_75,w_1320/content/dam/fom-website/drivers/2024Drivers/russell",
         driver_pic3:
           "https://motorsportmagazine.b-cdn.net/wp-content/uploads/2022/11/George-Russell-celebrates-winning-the-2022-Brazilian-Grand-Prix-800x450.jpg",
         driver_driving1:
@@ -88,7 +92,8 @@ module.exports = {
         car_number: 16,
         driver_pic1:
           "https://media.formula1.com/d_driver_fallback_image.png/content/dam/fom-website/drivers/C/CHALEC01_Charles_Leclerc/chalec01.png",
-        driver_pic2: "",
+        driver_pic2:
+          "https://media.formula1.com/image/upload/f_auto,c_limit,q_75,w_1320/content/dam/fom-website/drivers/2024Drivers/leclerc",
         driver_pic3:
           "https://thepodiumfinish.net/wp-content/uploads/2022/04/e57efd96-65d9-4ae1-8309-480e8ffd123e.jpeg",
         driver_driving1:
@@ -106,7 +111,8 @@ module.exports = {
         car_number: 55,
         driver_pic1:
           "https://media.formula1.com/d_driver_fallback_image.png/content/dam/fom-website/drivers/C/CARSAI01_Carlos_Sainz/carsai01.png",
-        driver_pic2: "",
+        driver_pic2:
+          "https://media.formula1.com/image/upload/f_auto,c_limit,q_75,w_1320/content/dam/fom-website/drivers/2024Drivers/sainz",
         driver_pic3:
           "https://media.nbclosangeles.com/2023/09/230917-carlos-sainz-getty.jpg?quality=85&strip=all&resize=1200%2C675",
         driver_driving1:
@@ -124,7 +130,8 @@ module.exports = {
         car_number: 4,
         driver_pic1:
           "https://media.formula1.com/d_driver_fallback_image.png/content/dam/fom-website/drivers/L/LANNOR01_Lando_Norris/lannor01.png",
-        driver_pic2: "",
+        driver_pic2:
+          "https://media.formula1.com/image/upload/f_auto,c_limit,q_75,w_1320/content/dam/fom-website/drivers/2024Drivers/norris",
         driver_pic3:
           "https://miro.medium.com/v2/resize:fit:1400/format:webp/1*mFlNcY5s4s7rIpIaA7r0DA.jpeg",
         driver_driving1:
@@ -142,7 +149,8 @@ module.exports = {
         car_number: 81,
         driver_pic1:
           "https://media.formula1.com/d_driver_fallback_image.png/content/dam/fom-website/drivers/O/OSCPIA01_Oscar_Piastri/oscpia01.png",
-        driver_pic2: "",
+        driver_pic2:
+          "https://media.formula1.com/image/upload/f_auto,c_limit,q_75,w_1320/content/dam/fom-website/drivers/2024Drivers/piastri",
         driver_pic3:
           "https://live-production.wcms.abc-cdn.net.au/8661d8d43f08555cc233308eaf8568f4?impolicy=wcms_crop_resize&cropH=2379&cropW=3569&xPos=161&yPos=288&width=862&height=575",
         driver_driving1:
@@ -160,7 +168,8 @@ module.exports = {
         car_number: 14,
         driver_pic1:
           "https://media.formula1.com/d_driver_fallback_image.png/content/dam/fom-website/drivers/F/FERALO01_Fernando_Alonso/feralo01.png",
-        driver_pic2: "",
+        driver_pic2:
+          "https://media.formula1.com/image/upload/f_auto,c_limit,q_75,w_1320/content/dam/fom-website/drivers/2024Drivers/alonso",
         driver_pic3:
           "https://storage.googleapis.com/fp-media/1/2023/03/XPB_1193109_HiRes.jpg",
         driver_driving1:
@@ -178,7 +187,8 @@ module.exports = {
         car_number: 18,
         driver_pic1:
           "https://media.formula1.com/d_driver_fallback_image.png/content/dam/fom-website/drivers/L/LANSTR01_Lance_Stroll/lanstr01.png",
-        driver_pic2: "",
+        driver_pic2:
+          "https://media.formula1.com/image/upload/f_auto,c_limit,q_auto,w_1320/content/dam/fom-website/drivers/2024Drivers/stroll",
         driver_pic3:
           "https://assets-global.website-files.com/5f522a1171a9f5468d9a3b39/65f06fe7f4d14e6169e429ac_GP2402_165549_U1A2933%20(1)%20copy.jpg",
         driver_driving1:
@@ -196,7 +206,8 @@ module.exports = {
         car_number: 31,
         driver_pic1:
           "https://media.formula1.com/d_driver_fallback_image.png/content/dam/fom-website/drivers/E/ESTOCO01_Esteban_Ocon/estoco01.png",
-        driver_pic2: "",
+        driver_pic2:
+          "https://media.formula1.com/image/upload/f_auto,c_limit,q_75,w_1320/content/dam/fom-website/drivers/2024Drivers/ocon",
         driver_pic3:
           "https://a1.espncdn.com/combiner/i?img=%2Fphoto%2F2023%2F0226%2Fr1136599_1296x729_16%2D9.jpg&w=1140&cquality=40&format=jpg",
         driver_driving1:
@@ -214,7 +225,8 @@ module.exports = {
         car_number: 10,
         driver_pic1:
           "https://media.formula1.com/d_driver_fallback_image.png/content/dam/fom-website/drivers/P/PIEGAS01_Pierre_Gasly/piegas01.png",
-        driver_pic2: "",
+        driver_pic2:
+          "https://media.formula1.com/image/upload/f_auto,c_limit,q_75,w_1320/content/dam/fom-website/drivers/2024Drivers/gasly",
         driver_pic3:
           "https://media.formula1.com/image/upload/f_auto,c_limit,w_960,q_auto/f_auto/q_auto/content/dam/fom-website/sutton/2022/AbuDhabi/Tuesday/1443450203",
         driver_driving1:
@@ -232,7 +244,8 @@ module.exports = {
         car_number: 77,
         driver_pic1:
           "https://media.formula1.com/d_driver_fallback_image.png/content/dam/fom-website/drivers/V/VALBOT01_Valtteri_Bottas/valbot01.png",
-        driver_pic2: "",
+        driver_pic2:
+          "https://media.formula1.com/image/upload/f_auto,c_limit,q_75,w_1320/content/dam/fom-website/drivers/2024Drivers/bottas",
         driver_pic3:
           "https://hips.hearstapps.com/hmg-prod/images/mercedes-finnish-driver-valtteri-bottas-celebrates-on-the-news-photo-1601219985.jpg?crop=0.670xw:1.00xh;0.218xw,0&resize=980:*",
         driver_driving1:
@@ -250,7 +263,8 @@ module.exports = {
         car_number: 24,
         driver_pic1:
           "https://media.formula1.com/d_driver_fallback_image.png/content/dam/fom-website/drivers/G/GUAZHO01_Guanyu_Zhou/guazho01.png",
-        driver_pic2: "",
+        driver_pic2:
+          "https://media.formula1.com/image/upload/f_auto,c_limit,q_75,w_1320/content/dam/fom-website/drivers/2024Drivers/zhou",
         driver_pic3:
           "https://admin.sauber-motorsports.nobound.com/fileadmin/_processed_/9/c/csm_2024_Chinese_Grand_Prix_-_Sunday_2087b15b04.webp",
 
@@ -269,7 +283,8 @@ module.exports = {
         car_number: 22,
         driver_pic1:
           "https://media.formula1.com/d_driver_fallback_image.png/content/dam/fom-website/drivers/Y/YUKTSU01_Yuki_Tsunoda/yuktsu01.png",
-        driver_pic2: "",
+        driver_pic2:
+          "https://media.formula1.com/image/upload/f_auto,c_limit,q_75,w_1320/content/dam/fom-website/drivers/2024Drivers/tsunoda",
         driver_pic3:
           "https://cdn.theathletic.com/app/uploads/2023/05/12095521/GettyImages-1486516178-2048x1366.jpg",
         driver_driving1:
@@ -286,7 +301,8 @@ module.exports = {
         car_number: 3,
         driver_pic1:
           "https://media.formula1.com/d_driver_fallback_image.png/content/dam/fom-website/drivers/D/DANRIC01_Daniel_Ricciardo/danric01.png",
-        driver_pic2: "",
+        driver_pic2:
+          "https://media.formula1.com/image/upload/f_auto,c_limit,q_75,w_1320/content/dam/fom-website/drivers/2024Drivers/ricciardo",
         driver_pic3:
           "https://cdn-5.motorsport.com/images/amp/6b7BgvE0/s1200/daniel-ricciardo-rb-f1-team-2.webp",
         driver_driving1:
@@ -303,7 +319,8 @@ module.exports = {
         car_number: 23,
         driver_pic1:
           "https://media.formula1.com/d_driver_fallback_image.png/content/dam/fom-website/drivers/A/ALEALB01_Alexander_Albon/alealb01.png",
-        driver_pic2: "",
+        driver_pic2:
+          "https://media.formula1.com/image/upload/f_auto,c_limit,q_75,w_1320/content/dam/fom-website/drivers/2024Drivers/albon",
         driver_pic3:
           "https://f1chronicle.com/wp-content/uploads/2023/07/WilliamsF1_98657_HiRes-1280x720.jpg",
         driver_driving1:
@@ -320,12 +337,39 @@ module.exports = {
         car_number: 2,
         driver_pic1:
           "https://media.formula1.com/d_driver_fallback_image.png/content/dam/fom-website/drivers/L/LOGSAR01_Logan_Sargeant/logsar01.png",
-        driver_pic2: "",
+        driver_pic2:
+          "https://media.formula1.com/image/upload/f_auto,c_limit,q_75,w_1320/content/dam/fom-website/drivers/2024Drivers/sargeant",
         driver_pic3:
           "https://cdn.williamsf1.tech/images/fnx611yr/production/61807f8550b609fa0e48a5ba82c36b63bdb569c8-6000x4000.jpg?w=1200&auto=format",
         driver_driving1:
           "https://sportshub.cbsistatic.com/i/r/2022/10/24/a7662fab-477e-4abb-8a8f-0eb5807ba8f6/thumbnail/770x433/edb93b020e3946d86a86cec3b27e3db4/logan-sargeant-getty.jpg",
         driver_driving2: "",
+      },
+      {
+        driver_id: 19,
+        driver_name: "Kevin Magnussen ",
+        dob: new Date("1992-10-05"),
+        country: "Denmark",
+        age: 31,
+        f1_team: "Hass F1 Team",
+        car_number: 20,
+        driver_pic1:
+          "https://media.formula1.com/d_driver_fallback_image.png/content/dam/fom-website/drivers/K/KEVMAG01_Kevin_Magnussen/kevmag01.png",
+        driver_pic2:
+          "https://media.formula1.com/image/upload/f_auto,c_limit,q_75,w_1320/content/dam/fom-website/drivers/2024Drivers/magnussen",
+      },
+      {
+        driver_id: 20,
+        driver_name: "Nico Hulkenberg",
+        dob: new Date("1987-08-19"),
+        country: "Germany",
+        age: 31,
+        f1_team: "Hass F1 Team",
+        car_number: 20,
+        driver_pic1:
+          "https://media.formula1.com/d_driver_fallback_image.png/content/dam/fom-website/drivers/N/NICHUL01_Nico_Hulkenberg/nichul01.png",
+        driver_pic2:
+          "https://media.formula1.com/image/upload/f_auto,c_limit,q_75,w_1320/content/dam/fom-website/drivers/2024Drivers/hulkenberg",
       },
     ]);
   },

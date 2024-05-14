@@ -7,6 +7,7 @@ import TeamPage from "./TeamPage";
 import { BrowserRouter, Route, Routes } from "react-router-dom";
 import Header from "./Header";
 import Footer from "./Footer";
+import "../assets/css/MainBody.css";
 function MainBody() {
   return (
     <>

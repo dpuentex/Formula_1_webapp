@@ -24,7 +24,7 @@ function TeamsPage() {
   }, []);
 
   return (
-    <div className="TeamsPage">
+    <div className="TeamsPageDiv">
       {teams.map((team) => (
         <Link className="link" key={team.team_id} to={`/teams/${team.team_id}`}>
           <TeamIcons

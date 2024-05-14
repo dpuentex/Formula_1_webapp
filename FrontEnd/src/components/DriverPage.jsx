@@ -26,14 +26,12 @@ function DriverPage() {
       {driver && (
         <div className="driverPageContainer">
           <div className="driverInfo">
-            <img
-              className="driverProfilePic"
-              src={driver.driver_pic_url}
-              alt={driver.name}
-            />
-            <h2>{driver.name}</h2>
-            <p>{driver.f1_team}</p>{" "}
+            <h2>{driver.driver_name}</h2>
+            <p>F1 Team:{driver.f1_team}</p>
+            <p>Country:{driver.country}</p>
+            <p>Car Number:{driver.car_number}</p>
           </div>
+          <img className="driverProfilePic" src={driver.driver_pic2}></img>
 
           <div>
             <img className="carPic1" src={driver.driver_car_pic} />

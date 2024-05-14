@@ -34,6 +34,9 @@ function TracksPage() {
             key={track.track_id}
             gpName={track.gp_name}
             map1={track.gp_track_map1}
+            track_name={track.track_name}
+            country={track.country}
+            city={track.city}
           />
         </Link>
       ))}
