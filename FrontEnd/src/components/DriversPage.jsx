@@ -24,10 +24,10 @@ function DriversPage() {
   }, []);
 
   return (
-    <div className="DriverPageDiv">
+    <div className="DriversPageDiv">
       {drivers.map((driver) => (
         <Link
-          className="link"
+          className="DriversLink"
           key={driver.driver_id}
           to={`/drivers/${driver.driver_id}`}
         >

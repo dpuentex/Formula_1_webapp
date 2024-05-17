@@ -1,0 +1,22 @@
+/*Shop Header*/
+.ShopHeaderDiv{
+height: auto;
+background-color: black;
+}
+
+.ShopNav{
+    display: flex;
+    flex-direction: row;
+    list-style: none;
+    justify-content: space-evenly;
+
+}
+
+.ShopNavBtn{
+
+    background-color: #e10602;
+    border-radius: 15px;
+    padding: .5em;
+    color: white;
+    
+}

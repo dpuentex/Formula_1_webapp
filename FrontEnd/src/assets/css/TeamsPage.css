@@ -1,34 +1,32 @@
-* {
-    margin: 0;
-    padding: 0;
-    box-sizing: content-box;
-
-}
 
 .TeamsPageDiv{
     display: flex;
     flex-direction: column;
     align-content: center;
+    width: 97%;
 }
 
-.link{
+
+
+.TeamsLink{
     text-decoration: none;
 }
 
 
 
 
-.TeamsPageDiv .link {
+.TeamsPageDiv .TeamsLink {
  
    transition: transform 0.3s ease-in-out, opacity 0.3s ease-in-out;
     
 }
 
-.TeamsPageDiv .link:hover {
-   transform: scale(1.05);
-   opacity: 0.9; 
 
+  
+  .TeamsPageDiv .TeamsLink:hover {
+    transform: scale(1.04);
+    opacity: 0.9; 
+  }
 
-}
 
 

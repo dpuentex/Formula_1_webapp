@@ -1,9 +1,22 @@
-.TrackIcon {
-    width: auto;
+.TrackIconDiv {
+    width: 97.3%;
     height: auto;
     display: flex;
+    padding: 1em;
+    margin: 1em;
+    border: 2px solid black;
+    border-radius: 15px;
+    box-shadow: 0 4px 6px rgba(0, 0, 0, 0.3);
+    justify-content: space-around;
+   
+}
+
+.TrackInfoDiv {
+    text-align: center;
+
 }
 
 .track_map{
-    width: 400px;
+    width: 450px;
 }
+

@@ -5,8 +5,7 @@
     flex-direction: row;
     align-items: center;
     justify-content: space-around;
-    font-family: 'Times New Roman', Times, serif;
-    text-decoration: none;
+   text-decoration: none;
    
 }
 
@@ -21,15 +20,13 @@
 
 
 ul{
-   
+
     display: flex;
     justify-content: space-around;
     list-style-type: none; /* Remove bullets */
 }
 
-li{font-size:x-large;
-    margin: 1em;
-}
+
 
 .btn {
     background-color: var(--background-color);
@@ -43,6 +40,8 @@ li{font-size:x-large;
     --border-size: 2px;
     --accent-color: white;
     font-size: 16px;
+  
+    font-size: large;
 }
 
 /* Top and bottom underlines */

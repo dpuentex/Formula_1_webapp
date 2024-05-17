@@ -4,13 +4,7 @@ function TeamIcons(props) {
   const backgroundStyle = {
     backgroundImage: `url(${props.team_header})`,
   };
-  return (
-    <div className="TeamIcon" style={backgroundStyle}>
-      <h3>{props.teamName}</h3>
-
-      <div className="TeamInfo"></div>
-    </div>
-  );
+  return <div className="TeamIcon" style={backgroundStyle}></div>;
 }
 
 export default TeamIcons;

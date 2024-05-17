@@ -23,10 +23,10 @@ function TracksPage() {
       });
   }, []);
   return (
-    <div>
+    <div className="TracksPageDiv">
       {tracks.map((track) => (
         <Link
-          className="link"
+          className="TracksLink"
           key={track.track_id}
           to={`/tracks/${track.track_id}`}
         >

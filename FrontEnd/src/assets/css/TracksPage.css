@@ -1,5 +1,25 @@
-.TrackIcons {
+.TracksPageDiv{
+    display: flex;
+    width: 100%;
+    flex-direction: column;
+    align-content: center;
+}
+
+
+.TracksLink {
     align-items: center;
     text-decoration: none;
+    color: inherit;
 
 }
+
+
+.TracksPageDiv .TracksLink {
+    transition: transform 0.3s ease-in-out, opacity 0.3s ease-in-out;
+  }
+  
+  .TracksPageDiv .TracksLink:hover {
+    transform: scale(1.05);
+    opacity: 0.9; 
+  }
+  

@@ -1,4 +1,4 @@
-.DriverPageDiv{
+.DriversPageDiv{
     width: 100%;
     display: flex;
     flex-wrap: wrap;
@@ -7,21 +7,17 @@
 
 }
 
-.link{
+.DriversLink{
     text-decoration: none;
     color: inherit;
 }
 
 
-.DriverPageDiv .link {
- 
+.DriversPageDiv .DriversLink {
     transition: transform 0.3s ease-in-out, opacity 0.3s ease-in-out;
-     
- }
- 
- .DriverPageDiv .link:hover {
+  }
+  
+  .DriversPageDiv .DriversLink:hover {
     transform: scale(1.05);
-    opacity: 0.9; 
- 
- 
- }
+    opacity: 0.9;
+  }
