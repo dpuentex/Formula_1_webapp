@@ -1,19 +1,15 @@
-import { useState, useEffect } from "react";
 import "../assets/css/ShopItem.css";
 
-function ShopItem({ id, name, price, addtoCart }) {
+function ShopItem({ item, addToCart }) {
+  const { itemName, makeBy, itemImg, price } = item;
   return (
     <div className="ShopItemDiv">
-      <img
-        className="itemImg"
-        src="https://www.neweracap.com/cdn/shop/files/60504219_9FIFTYORIGINALFIT_MCLARENF1TEAM_MCLAREN_MULTI_3QL_01181deb-fce8-470c-9e9f-0fff86fb2c88.jpg?v=1707749408&width=823"
-        alt="Lando Hat"
-      />
+      <img className="itemImg" src={itemImg} alt="" />
       <div className="itemInfo">
-        <h3>Mclaren Hat</h3>
-        <p>by NewEra</p>
-        <br />
-        <button className="addToCartbtn">ADD TO CART</button>
+        <h3>{itemName}</h3>
+        <p>{makeBy}</p>
+        <p>${price.toFixed(2)}</p>
+        <button onClick={() => addToCart(item)}>ADD TO CART</button>
       </div>
     </div>
   );

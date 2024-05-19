@@ -38,3 +38,11 @@ padding: .5em;
 }
 
 
+button{
+    background-color: #e10602;
+    border-radius: 15px;
+    padding: .5em;
+    border: none;
+color: white;
+
+}
